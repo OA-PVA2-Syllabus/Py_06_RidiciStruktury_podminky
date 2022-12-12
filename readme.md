@@ -2,7 +2,10 @@
 ## Cvičení 06: Řídící struktury - podmínky
 
 ### 1
-Napište příkaz podmínky, který se prostřednictvím funkce input() zeptá na jméno uživatele. Pokud je jméno "Bond", vypište "Vítejte na palubě 007". 
+Napište příkaz podmínky, který se prostřednictvím funkce input() zeptá na jméno uživatele. 
+
+Pokud je jméno "Bond", vypište "Vítejte na palubě 007". 
+
 V opačném případě vypište "Dobré ráno JMÉNO". (Jméno nahraďte jménem uživatele).
 
 ### 2
