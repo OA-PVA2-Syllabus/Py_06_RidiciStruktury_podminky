@@ -21,7 +21,7 @@ Sestavte podmínku pro semafor. Vyžádejte si zadání svítící barvy od uži
 * jiná barva - nerozpoznaný signál
 
 ### 5
-V předmětu je definována hodnotící škála. Zeptejte se uživatele, kolik bodů získal student(ka) a zobrazte výslednou známku.
+V předmětu je definována hodnotící škála 0 -100 bodů. Zeptejte se uživatele, kolik bodů získal student(ka) a zobrazte výslednou známku.
 
 ```
 1: 89 a více
