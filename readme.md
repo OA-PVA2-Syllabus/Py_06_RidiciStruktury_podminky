@@ -2,7 +2,7 @@
 ## Cvičení 06: Řídící struktury - podmínky
 
 ## Obsah
-1. Operátor `operator.py`
+1. Operátor `log_operator.py`
 2. Pořadí operátorů `poradi_operatoru.py`
 3. Podmínka `podminka.py`
 4. Větvení `else_elif.py`
